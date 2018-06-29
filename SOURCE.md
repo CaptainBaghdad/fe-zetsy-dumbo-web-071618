@@ -2,7 +2,7 @@
 <h1>Zetsy</h1>
 
 <!-- featured image -->
-[necklace.jpg]
+<img src="images/necklace.jpg">
 
 <!-- level 2 header -->
 About
