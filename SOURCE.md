@@ -21,9 +21,9 @@
 <h2>Press</h2>
 
 <!-- press images -->
-<img src="nmai-logo.png" ><!-- links to: http://nmai.si.edu -->
+<img src="images/nmai-logo.png" ><!-- links to: http://nmai.si.edu -->
 [times-logo.png]<!-- links to: http://www.nytimes.com/pages/t-magazine/ -->
-<img src="sedona-logo.png"><!-- links to: http://www.sedonamonthly.com -->
+<img src="images/sedona-logo.png"><!-- links to: http://www.sedonamonthly.com -->
 [bergdorf-logo.png]<!-- links to: http://www.bergdorfgoodman.com/ -->
 
-<!-- paragraph -->&copy; 2014 Zetsy, All Rights Reserved.
+<!-- paragraph --><p>&copy; 2014 Zetsy, All Rights Reserved.</p>
